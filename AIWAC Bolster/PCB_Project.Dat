@@ -1,59 +1,64 @@
-﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~E:\2018-Task\2018-A33\AIWAC_Project_PCB_SCH\aiwac_design\AI Bolster\AIWAC-bolster-V02-Change2018.4.16-Qu\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~187|ReportField=ReportTime~19:19:55|ReportField=ReportDate~2018/10/15|ReportField=ReportDateTime~2018/10/15 19:19:55|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/10/15|ReportField=CurrentTime~19:19:50|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\2018-Task\2018-A33\AIWAC_Project_PCB_SCH\aiwac_design\AI Bolster\AIWAC-bolster-V02-Change2018.4.16-Qu\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/4/17|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~E:\2018-Task\2018-A33\AIWAC_Project_PCB_SCH\aiwac_design\AI Bolster\AIWAC-bolster-V02-Change2018.4.16-Qu\PCB_Project.PrjPcb
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~E:\2018-A33\AIWAC_Project_PCB_SCH\aiwac_design\AI Bolster\AIWAC_baseboard-V04_5.10\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~194|ReportField=ReportTime~14:46:36|ReportField=ReportDate~2018/7/12|ReportField=ReportDateTime~2018/7/12 14:46:36|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/7/12|ReportField=CurrentTime~14:40:58|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\2018-A33\AIWAC_Project_PCB_SCH\aiwac_design\AI Bolster\AIWAC_baseboard-V04_5.10\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/5/14|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~E:\2018-A33\AIWAC_Project_PCB_SCH\aiwac_design\AI Bolster\AIWAC_baseboard-V04_5.10\PCB_Project.PrjPcb
 1|IPEX|天线接口IPEX|ANT1|J-IPEX|1
 2|101J10V|贴片电容-陶瓷|C1, C2, C3, C4, C5, C6, C7, C8, C11, C12, C13, C14, C15, C16, C17, C18, C21, C22, C26, C27|C0402|20
-3|104J10V|贴片电容-陶瓷|C9, C19, C23, C25, C30, C37, C50, C104, C106|C0402|9
-4|105J10V|贴片电容-陶瓷|C10, C20, C31, C33|C0402|4
-5|226M50V|贴片电容-陶瓷|C24, C28, C29, C103, C105|C0805|5
-6|220UF 20%|C 1206钽电容 --220UF 10V 3216 A型 有极性电容 3.2mm X 1.6mm|C32, C42, C43|C1206|3
-7|220J10V|贴片电容-陶瓷|C34, C45|C0402|2
-8|33PF|贴片电容-陶瓷|C35, C39|C0402|2
-9|22PF|贴片电容-陶瓷|C36, C40|C0402|2
-10|100PF|贴片电容-陶瓷|C38|C0402|1
-11|226K25V|贴片电容-陶瓷|C41|C0805|1
-12|106K50V|贴片电容-陶瓷|C44, C51|C0603|2
-13|NC|贴片电容-陶瓷|C47, C48|C0402|2
-14|475K16V|贴片电容-陶瓷|C55, C56|C0603|2
-15|105K16V|贴片电容-陶瓷|C57|C0603|1
-16|10UF|贴片电容-陶瓷|C100|C0603|1
-17|22UF|贴片电容-陶瓷|C101|C0805|1
-18|BAT54C|贴片二极管-肖特基|D1, D2, D4, D5|U-SOT-23-3|4
-19|LED0603G|贴片二极管-LED|D3|D-LED0603G|1
-20|发光二极管||D6, D7|LEDΦ5-H12|2
-21|ESDA_TR1/0603|Zener Diode|D21, D22, D23, D24|HS_0603D|4
-22|SH1.0-T-1-LT-12A_卧式|SH1.0-T-1-LT-12A_卧式|J1, J2|J-SH1.0-T-1-LT-12A_卧式|2
-23|SH1.0-T-1-LT-8A_卧式|SH1.0-T-1-LT-6A_卧式|J3, J4|J-SH1.0-T-1-LT-8A_卧式|2
-24|SH1.0-T-1-LT-2A_卧式|SH1.0-T-1-LT-2A_卧式|J6, J7|J-SH1.0-T-1-LT-2A_卧式|2
-25|ZH1.25|ZH1.25|J8|S1.25-2P|1
-26|SH1.0-T-1-LT-10A_卧式|SH1.0-T-1-LT-10A_卧式|J9|J-SH1.0-T-1-LT-10A_卧式|1
-27|USB-MINI-SOCKET|USB-A卧式插座|J10, J11|MICRO-USB - 5.9|2
-28|3.3uH|贴片电感-层叠|L2|L0805|1
-29|10uH|贴片电感-层叠|L3|L0805|1
-30|A33 CORE2||M1|A33-CORE2|1
-31|150KF|贴片电阻-通用|R1, R2, R5, R6, R25, R26, R29, R30, R51|R0603|9
-32|3KF|贴片电阻-通用|R3, R4, R7, R8, R27, R28, R31, R32, R53, R54, R64|R0603|11
-33|100RF|贴片电阻-通用|R9, R10, R13, R14, R33, R34, R37, R38, R55, R56, R62|R0603|11
-34|10KF|贴片电阻-通用|R11, R12, R15, R16, R35, R36, R40, R41, R57, R67, R72, R73, R76, R80, R103|R0603|15
-35|47KF|贴片电阻-通用|R17, R18, R19, R20, R42, R43, R44, R46, R52, R58, R59, R60, R71|R0603|13
-36|1MF|贴片电阻-通用|R21, R22, R23, R24, R45, R47, R48, R49|R0603|8
-37|100KF|贴片电阻-通用|R39, R50, R68, R74, R77, R82|R0603|6
-38|820KF|贴片电阻-通用|R61|R0603|1
-39|470RF|贴片电阻-通用|R63|R0603|1
-40|560KF|贴片电阻-通用|R65|R0603|1
-41|1KF|贴片电阻-通用|R66, R70, R102|R0603|3
-42|6.8KF|贴片电阻-通用|R69|R0603|1
-43|0R|贴片电阻-通用|R75, R79|R0603|2
-44|2KF|贴片电阻-通用|R83, R92|R0603|2
-45|33RF|贴片电阻-通用|R84|R0603|1
-46|33KF|贴片电阻-通用|R87, R88, R89, R90, R91|R0603|5
-47|39KF|贴片电阻-通用|R100|R0603|1
-48|R0402-0RF|R0402-0RF|R101|C0402|1
-49|430KF|贴片电阻-通用|R104|R0603|1
-50|82KF|贴片电阻-通用|R105|R0603|1
-51|NTC-10K_5%|插件电阻-热敏|RT1|R-NTC-10K|1
-52|KSMD6X6-4P|轻触按键|S1|SW2-6*6H|1
-53|LM2901AVQPWR|LM2901AVQPWR|U1, U2, U3|U-TSSOP14|3
-54|NL27WZU04|NL27WZU04|U4|U-TSOP-6|1
-55|PAM8301AAF|PAM8301AAF|U5|U-TSOT26|1
-56|PS7516|PS7516|U6|U-SOT-23-6|1
-57|AP6210||U7|AP6210|1
-58|26MHz|晶振-贴片无源|Y1|Y-CPX-32GA-4P|1
+3|104J10V|贴片电容-陶瓷|C9, C19, C23, C25, C30, C50, C103, C105|C0402|8
+4|105J10V|贴片电容-陶瓷|C10, C20, C31|C0402|3
+5|226M50V|贴片电容-陶瓷|C24, C28, C29, C102|C0805|4
+6|220UF 20%|C 1206钽电容 --220UF 10V 3216 A型 有极性电容 3.2mm X 1.6mm|C32, C37, C42, C43, C104|C1206|5
+7|1UF|贴片电容-陶瓷|C33|C0402|1
+8|220J10V|贴片电容-陶瓷|C34, C45|C0402|2
+9|33PF|贴片电容-陶瓷|C35, C39|C0402|2
+10|1NF|贴片电容-陶瓷|C36, C40|C0402|2
+11|100PF|贴片电容-陶瓷|C38|C0402|1
+12|226K25V|贴片电容-陶瓷|C41|C0805|1
+13|106K50V|贴片电容-陶瓷|C44, C51|C0603|2
+14|NC|贴片电容-陶瓷|C47, C48|C0402|2
+15|330J10V|贴片电容-陶瓷|C49|C0402|1
+16|475K16V|贴片电容-陶瓷|C55, C56|C0603|2
+17|105K16V|贴片电容-陶瓷|C57|C0603|1
+18|4.7NF|贴片电容-陶瓷|C100, C101|C0603|2
+19|10UF|贴片电容-陶瓷|C110|C0603|1
+20|BAT54C|贴片二极管-肖特基|D1, D2, D4, D5|U-SOT-23-3|4
+21|LED0603G|贴片二极管-LED|D3|D-LED0603G|1
+22|发光二极管||D6, D7|LEDΦ5-H12|2
+23|ESDA_TR1/0603|Zener Diode|D11, D12, D21, D22|HS_0603D|4
+24|SH1.0-T-1-LT-12A_卧式|SH1.0-T-1-LT-12A_卧式|J1, J2|J-SH1.0-T-1-LT-12A_卧式|2
+25|SH1.0-T-1-LT-8A_卧式|SH1.0-T-1-LT-6A_卧式|J3, J4|J-SH1.0-T-1-LT-8A_卧式|2
+26|SH1.0-T-1-LT-2A_卧式|SH1.0-T-1-LT-2A_卧式|J6, J7|J-SH1.0-T-1-LT-2A_卧式|2
+27|S1.25-2P|定制铜排|J8|S1.25-2P|1
+28|SH1.0-T-1-LT-10A_卧式|SH1.0-T-1-LT-10A_卧式|J9|J-SH1.0-T-1-LT-10A_卧式|1
+29|USB-MINI-SOCKET|USB-A卧式插座|J10, J11|MICRO-USB - 5.9|2
+30|10uH|贴片电感-层叠|L1|L-2520|1
+31|3.3uH|贴片电感-层叠|L2|L0805|1
+32|120R|贴片电阻-通用|L3, L4|R0603|2
+33|A33 CORE2||M1|A33-CORE2|1
+34|150KF|贴片电阻-通用|R1, R2, R5, R6, R25, R26, R29, R30, R51|R0603|9
+35|3KF|贴片电阻-通用|R3, R4, R7, R8, R27, R28, R31, R32, R53, R54, R64|R0603|11
+36|100RF|贴片电阻-通用|R9, R10, R13, R14, R33, R34, R37, R38, R55, R56, R62|R0603|11
+37|10KF|贴片电阻-通用|R11, R12, R15, R16, R35, R36, R40, R41, R57, R72, R73, R76, R80, R102|R0603|14
+38|47KF|贴片电阻-通用|R17, R18, R19, R20, R42, R43, R44, R46, R52, R58, R59, R60, R71|R0603|13
+39|1MF|贴片电阻-通用|R21, R22, R23, R24, R45, R47, R48, R49|R0603|8
+40|100KF|贴片电阻-通用|R39, R50, R68, R74, R77, R82|R0603|6
+41|820KF|贴片电阻-通用|R61|R0603|1
+42|470RF|贴片电阻-通用|R63|R0603|1
+43|560KF|贴片电阻-通用|R65|R0603|1
+44|150K|贴片电阻-通用|R66, R67|R0603|2
+45|6.8KF|贴片电阻-通用|R69|R0603|1
+46|1KF|贴片电阻-通用|R70, R101|R0603|2
+47|0R|贴片电阻-通用|R75, R79|R0603|2
+48|2.49KF|贴片电阻-通用|R83|R0603|1
+49|33RF|贴片电阻-通用|R84|R0603|1
+50|33KF|贴片电阻-通用|R87, R88, R89, R90, R91|R0603|5
+51|100R|贴片电阻-通用|R92|R0603|1
+52|430KF|贴片电阻-通用|R103|R0603|1
+53|82KF|贴片电阻-通用|R104|R0603|1
+54|0R NC|贴片电阻-通用|R110, R111, R120|R0603|3
+55|0R  NC|贴片电阻-通用|R112, R113|R0603|2
+56|10KF|贴片电阻-通用|RT1|0402|1
+57|KSMD6X6-4P|轻触按键|S1|SW2-6*6H|1
+58|LM2901AVQPWR|LM2901AVQPWR|U1, U2, U3|U-TSSOP14|3
+59|NL27WZU04|NL27WZU04|U4|U-TSOP-6|1
+60|CS8508E||U5|SO-8|1
+61|AP6210||U7|AP6210|1
+62|PS7516|PS7516|U10|U-SOT-23-6|1
+63|26MHz|晶振-贴片无源|Y1|Y-CPX-32GA-4P|1
