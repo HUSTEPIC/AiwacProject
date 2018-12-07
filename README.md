@@ -24,10 +24,12 @@ These are some PCB project about AIWAC company.
 1. 初步原因：（1）座子没焊好；（2）或者是LAYOUT的问题；
 2. 解决方案：直接买180的LCD屏+驱动板+触摸板，测试过是没有问题。
 3. 调试方案：对比资料中的LAYOUT层
+   1. A33的底板的40PIN座子可以把管脚反一下，调成和买的那个一致，差分线最好包地；
 ### 问题2 ：USB Hub-->带不动USB屏幕
 1. 初步原因：初步确定是电流的原因，带不动
 2. 解决方案：（1）去掉USB HUB，
 3. 调试方案： 拆掉一个芯片，把那一对差分信号直接飞线到那个单独的USB座子
+   1. A33的底板的40PIN座子可以把管脚反一下，调成和买的那个一致，差分线最好包地，这样可能问题就解决了
 ### 总体进度
 1. 软件驱动方面，感觉唐元基本调ok了，触摸屏也正常了。
 2. wifi,蓝牙，camera，sd卡，串口，声音，电池充电供电，按键开机，开机led灯均正常。
@@ -39,11 +41,13 @@ These are some PCB project about AIWAC company.
 3. 购买MIC，回来后焊接上接插件
 4. 购买LCD屏，回来后直接组装
 ### 采购
-| Order | package | number | total price |Link|
-| :---: | :-----: | :----: |  :----: |:--:|
-|1|HDF 5640-AQ 摄像头--配上连接座 | 4 |  |[深圳市国航芯科电子 6% ](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-16886023609.16.67b55eddaYQpcq&id=563285697358)
-|2|MIC|20||[凯悦电子直销部](https://item.taobao.com/item.htm?spm=a230r.1.14.32.a7f52782W8YtYM&id=561132245409&ns=1&abbucket=18#detail)
-|3|LVDS_LCD 屏|4||[锐尔威视](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.47412e8dcDSi7m&id=565149242790&_u=u86c4nsd319)
-|4|2500电池 ZH2.54反向插[蓝色套装]----配上连接座|5||[电池](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w137644-14907183885.20.6cfd356bfhkgXQ&id=41942218237)
-|5|喇叭 2840--大小|5||[国创](https://item.taobao.com/item.htm?id=541823569650&tracelogww=ltckbburl)
-|6|SH1.0MM端子线 20cm 2P|10||[SH1.0MM端子线 ](https://detail.tmall.com/item.htm?spm=a230r.1.14.6.6fff5e4ax88Mlt&id=552443539764&cm_id=140105335569ed55e27b&abbucket=11&skuId=3991875939611)
+
+| Order | package                                       | number | total price | Link                                                         |
+| ----- | --------------------------------------------- | ------ | ----------- | ------------------------------------------------------------ |
+| 1     | HDF 5640-AQ 摄像头--配上连接座                | 4      |             | [深圳市国航芯科电子 6% ](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-16886023609.16.67b55eddaYQpcq&id=563285697358) |
+| 2     | MIC                                           | 20     |             | [凯悦电子直销部](https://item.taobao.com/item.htm?spm=a230r.1.14.32.a7f52782W8YtYM&id=561132245409&ns=1&abbucket=18#detail) |
+| 3     | LVDS_LCD 屏                                   | 4      |             | [锐尔威视](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.47412e8dcDSi7m&id=565149242790&_u=u86c4nsd319) -- 采购的时候一定要说发货发LVDS |
+| 4     | 2500电池 ZH2.54反向插[蓝色套装]----配上连接座 | 5      |             | [电池](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w137644-14907183885.20.6cfd356bfhkgXQ&id=41942218237)--接插头反了 |
+| 5     | 喇叭 2840--大小                               | 5      |             | [国创](https://item.taobao.com/item.htm?id=541823569650&tracelogww=ltckbburl) |
+| 6     | SH1.0MM端子线 20cm 2P                         | 10     |             | [SH1.0MM端子线 ](https://detail.tmall.com/item.htm?spm=a230r.1.14.6.6fff5e4ax88Mlt&id=552443539764&cm_id=140105335569ed55e27b&abbucket=11&skuId=3991875939611) |
+
