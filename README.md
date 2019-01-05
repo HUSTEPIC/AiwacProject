@@ -1,5 +1,11 @@
 # AiwacProject
+
 These are some PCB project about AIWAC company.
+
+[TOC]
+
+
+
 ## S905D_MIC
 1. 4麦的阵列。
 2. 目前没有在研发，资料在网盘。
@@ -51,3 +57,23 @@ These are some PCB project about AIWAC company.
 | 5     | 喇叭 2840--大小                               | 5      |             | [国创](https://item.taobao.com/item.htm?id=541823569650&tracelogww=ltckbburl) |
 | 6     | SH1.0MM端子线 20cm 2P                         | 10     |             | [SH1.0MM端子线 ](https://detail.tmall.com/item.htm?spm=a230r.1.14.6.6fff5e4ax88Mlt&id=552443539764&cm_id=140105335569ed55e27b&abbucket=11&skuId=3991875939611) |
 
+
+
+## DiapersCC2540
+
+1. 2019.1.5号完成
+2. 用于纸尿裤的产品，基于CC2540蓝牙模块，集成DHT11温湿度传感器，和常闭震动传感器；
+3. 供电采用可充电锂电池模块，稳压成3.3V
+
+### dispers_Debug
+
+1. 保留了原有的SPI, Uart, USB接口；
+2. 采用Jtag 作为CCDebugger调试接口；
+3. 采用可充电纽扣电池模块；
+
+### diapers_Product
+
+1. 只保留了USB接口，SPI接口；
+2. DHT11 两种方式读取数字信号，
+   1. IIC接口复用SPI信号的 DIN, SCLK；
+   2. 单总线方式读取，使用P0.0
