@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=D:\2018_hust_files\2018-AIWAC-project\AiwacProject\DiapersCC2540\.PDF
+OutputFilePath2=D:\2018_hust_files\2018-AIWAC-project\AiwacProject\DiapersCC2540\dispers_Debug\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\2018_hust_files\2018-AIWAC-project\AiwacProject\DiapersCC2540\
+OutputBasePath2=D:\2018_hust_files\2018-AIWAC-project\AiwacProject\DiapersCC2540\dispers_Debug\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -79,7 +79,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\2018_hust_files\2018-AIWAC-project\AiwacProject\DiapersCC2540\.PDF
+RelativeOutputPath2=D:\2018_hust_files\2018-AIWAC-project\AiwacProject\DiapersCC2540\dispers_Debug\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1

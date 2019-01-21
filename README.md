@@ -70,6 +70,7 @@ These are some PCB project about AIWAC company.
 1. 保留了原有的SPI, Uart, USB接口；
 2. 采用Jtag 作为CCDebugger调试接口；
 3. 采用可充电纽扣电池模块；
+4. 只能使用DHT11，单总线方式
 
 ### diapers_Product
 
