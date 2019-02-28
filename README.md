@@ -78,3 +78,8 @@ These are some PCB project about AIWAC company.
 2. DHT11 两种方式读取数字信号，
    1. IIC接口复用SPI信号的 DIN, SCLK；
    2. 单总线方式读取，使用P0.0
+
+### diapers_Kernel
+
+1. 研发CC2540的核心板
+2. 难点：板载天线的设计
