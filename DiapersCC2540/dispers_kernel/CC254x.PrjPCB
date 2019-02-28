@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AOVREGYB
+DocumentUniqueId=IEYNSHHJ
 
 [Document4]
 DocumentPath=CC254xEM-sch.lib
@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JUWGAUAB
+DocumentUniqueId=LVVAITXW
 
 [Document6]
 DocumentPath=..\..\..\SchPcbLibrary\Library-SCH\Capacitor.SchLib
@@ -290,7 +290,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EURDVDJV
+DocumentUniqueId=SBCRCKIH
 
 [Document16]
 DocumentPath=..\..\..\SchPcbLibrary\Library-SCH\XU-GENARAL SCH.SCHLIB
@@ -477,7 +477,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GVFSVBVO
 
 [Document27]
 DocumentPath=..\..\..\SchPcbLibrary\Library-PCB\XU-GENARAL PCB .PcbLib
@@ -495,6 +495,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document28]
+DocumentPath=..\..\..\SchPcbLibrary\Library-SCH\BleANT.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MEDIMGSP
+
+[Document29]
+DocumentPath=..\..\..\SchPcbLibrary\Library-SCH\oscillator.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MDYRTLRY
 
 [Configuration1]
 Name=Sources
