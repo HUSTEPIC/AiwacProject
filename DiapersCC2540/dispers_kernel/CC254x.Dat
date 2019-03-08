@@ -1,5 +1,5 @@
-﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~CC254x.PrjPCB|ReportField=ProjectFullPath~D:\2018_hust_files\2018-AIWAC-project\AiwacProject\DiapersCC2540\dispers_kernel\CC254x.PrjPCB|ReportField=Title~Bill of Materials For Project [CC254x.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~66|ReportField=ReportTime~13:29:56|ReportField=ReportDate~2019/3/4|ReportField=ReportDateTime~2019/3/4 13:29:56|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019/3/4|ReportField=CurrentTime~13:27:16|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\2018_hust_files\2018-AIWAC-project\AiwacProject\DiapersCC2540\dispers_kernel\CC254x.SchDoc|ReportField=DocumentName~CC254x.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019/3/4|ReportField=Organization~|ReportField=ProjectName~CC254x.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~CC254x.PrjPCB|ReportField=DataSourceFullPath~D:\2018_hust_files\2018-AIWAC-project\AiwacProject\DiapersCC2540\dispers_kernel\CC254x.PrjPCB
-1|BLE-ANT4||B1|BLE-ANT4|ANT|1
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~CC254x.PrjPCB|ReportField=ProjectFullPath~D:\2018_hust_files\2018-AIWAC-project\AiwacProject\DiapersCC2540\dispers_kernel\CC254x.PrjPCB|ReportField=Title~Bill of Materials For Project [CC254x.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~66|ReportField=ReportTime~8:08:09|ReportField=ReportDate~2019/3/8|ReportField=ReportDateTime~2019/3/8 8:08:09|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019/3/8|ReportField=CurrentTime~8:07:59|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\2018_hust_files\2018-AIWAC-project\AiwacProject\DiapersCC2540\dispers_kernel\CC254x.SchDoc|ReportField=DocumentName~CC254x.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019/3/8|ReportField=Organization~|ReportField=ProjectName~CC254x.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~CC254x.PrjPCB|ReportField=DataSourceFullPath~D:\2018_hust_files\2018-AIWAC-project\AiwacProject\DiapersCC2540\dispers_kernel\CC254x.PrjPCB
+1|BLE-ANT4||B1|BLE-ANTS2|ANT|1
 2|104K50V|贴片电容-陶瓷|C1, C3, C4, C5, C7, C9, C16, C23, C25, C27|C0603|C0603X7R-104K50V|10
 3|105K16V|贴片电容-陶瓷|C2, C18|C0603|C0603X7R-105K16V|2
 4|220J10V|贴片电容-陶瓷|C6|C0402|C0402X7R-220J10V|1
@@ -12,25 +12,24 @@
 11|106K50V|贴片电容-陶瓷|C22, C24, C26|C0603|C0603X7R-106K50V|3
 12|LED0603G|贴片二极管-LED|D1, D2, D3, D4, D5, D8|D-LED0603G|DLED-0603-G|6
 13|ESDA_TR1/0603|Zener Diode|D6, D7|HS_0603D|D Zener|2
-14|J-D2.45-1*4|J-D2.45-1*4|J1|D2.54-1*4P|J-D2.54-1*4单排排母|1
-15|J-D2.54-2*2|双排排针-直针|J2|D2.54-2*2P|J-D2.54-2*2双排|1
-16|J-D2.54-1*2|J-D2.54-1*2|J3|D2.54-1*2P|J-D2.54-1*2单排|1
-17|USB-MINI-SOCKET|USB-A卧式插座|J4|MICRO-USB - 5.9|J-USB-MINI-SOCKET|1
-18|SS-12D00|SS-12D00|K1|SS-12D00|SS-12D00(1P2T) 立式 柄高5MM|1
-19|3*6*5|贴片-卧式轻触开关|K2|S-K3*6|3*6*5|1
-20|L-0402-2nH|贴片电感-层叠|L1, L4, L5|L0402|L-0402-2nH|3
-21|L-0402-1nH|贴片电感-层叠|L2, L3|L0402|L-0402-2.2nH|2
-22|SW420|长闭震动开关|M1|SW420|SW420|1
-23|CC2540|CC2540|M2|CC254X_QFN|CC2540|1
-24|PHONE||P1||PHONE|1
-25|1KF|贴片电阻-通用|R1, R5, R7, R11|R0603|R0603-1KF|4
-26|10KF|贴片电阻-通用|R2, R3|R0603|R0603-10KF|2
-27|10k|电位器精密可调电阻|R4|R3326P|R3362-10K|1
-28|56KF|贴片电阻-通用|R6|R0603|R0603-47KF|1
-29|R0603-15KF|贴片电容-通用|R8|R0603|R0603-15KF|1
-30|470RF|贴片电阻-通用|R9, R10|R0603|R0603-470RF|2
-31|LM393-DR|双路比较器|U1|LM393|LM393-DR|1
-32|MCP73831|charge IC|U2|SOT23-5N|MCP73831|1
-33|AMS1117_3.3V|AMS1117_3.3V|U3|SOT-223|AMS1117-3.3V|1
-34|CRYSTAL_3215|CRYSTAL_3215，两脚|Y1|CRYSTAL_3215|CRYSTAL_3215|1
-35|CY_3225|CY_3225|Y2|CY_3225|CY_3225|1
+14|J-2.54-1*6|单排|J1|D2.54-1*6|J-2.54-6|1
+15|J-D2.54-1*2|J-D2.54-1*2|J3|D2.54-1*2P|J-D2.54-1*2单排|1
+16|USB-MINI-SOCKET|USB-A卧式插座|J4|MICRO-USB - 5.9|J-USB-MINI-SOCKET|1
+17|SS-12D00|SS-12D00|K1|SS-12D00|SS-12D00(1P2T) 立式 柄高5MM|1
+18|3*6*5|贴片-卧式轻触开关|K2|S-K3*6|3*6*5|1
+19|L-0402-2nH|贴片电感-层叠|L1, L4, L5|L0402|L-0402-2nH|3
+20|L-0402-1nH|贴片电感-层叠|L2, L3|L0402|L-0402-2.2nH|2
+21|CC2540|CC2540|M2|CC254X_QFN|CC2540|1
+22|PHONE||P1||PHONE|1
+23|1KF|贴片电阻-通用|R1, R5, R7, R11|R0603|R0603-1KF|4
+24|10KF|贴片电阻-通用|R2, R3, R12|R0603|R0603-10KF|3
+25|100R|贴片电阻-通用|R4|R0603|R0603-10KF|1
+26|56KF|贴片电阻-通用|R6|R0603|R0603-47KF|1
+27|R0603-15KF|贴片电容-通用|R8|R0603|R0603-15KF|1
+28|470RF|贴片电阻-通用|R9, R10|R0603|R0603-470RF|2
+29|sw420|常闭振动传感器|S1|sw420|sw420|1
+30|LM393-DR|双路比较器|U1|LM393|LM393-DR|1
+31|MCP73831|charge IC|U2|SOT23-5N|MCP73831|1
+32|AMS1117_3.3V|AMS1117_3.3V|U3|SOT-223|AMS1117-3.3V|1
+33|CRYSTAL_3215|CRYSTAL_3215，两脚|Y1|CRYSTAL_3215|CRYSTAL_3215|1
+34|CY_3225|CY_3225|Y2|CY_3225|CY_3225|1

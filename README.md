@@ -83,3 +83,8 @@ These are some PCB project about AIWAC company.
 
 1. 研发CC2540的核心板
 2. 难点：板载天线的设计
+
+## Smart pill boxes
+
+1. 智能药盒
+2. 申可设计
