@@ -614,7 +614,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OQTVODTL
+DocumentUniqueId=FNTGLIMR
 
 [Configuration1]
 Name=Sources
@@ -630,7 +630,7 @@ AutoOpenFile=-1
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=-1
+ProjectMode=0
 ZoomPrecision=50
 AddNetsInformation=-1
 AddNetPins=-1
