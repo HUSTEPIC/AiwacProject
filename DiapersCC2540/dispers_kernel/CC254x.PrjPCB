@@ -549,23 +549,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=CC254x.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KRGNSWQA
-
-[Document32]
 DocumentPath=CC254x.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -582,7 +565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSMQRCLV
 
-[Document33]
+[Document32]
 DocumentPath=..\..\..\SchPcbLibrary\Library-PCB\myPcbLib2-内含天线.LIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,24 +582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWYSTIPY
 
-[Document34]
-DocumentPath=myPcbLib2-内含天线.LIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BDBSWDUQ
-
-[Document35]
+[Document33]
 DocumentPath=CC254x.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKAISXRX
 
-[Document36]
+[Document34]
 DocumentPath=CC254x_1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,10 +615,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWEFBOLO
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for CC254x\CC254x.xls
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
